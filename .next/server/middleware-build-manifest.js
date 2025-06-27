@@ -38,6 +38,11 @@ self.__BUILD_MANIFEST = {
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/owner-login.js"
+    ],
+    "/qr-code": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/qr-code.js"
     ]
   },
   "ampFirstPages": []
