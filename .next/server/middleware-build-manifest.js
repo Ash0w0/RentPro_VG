@@ -34,6 +34,11 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/login.js"
     ],
+    "/owner": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/owner.js"
+    ],
     "/owner-login": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
