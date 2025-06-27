@@ -321,7 +321,7 @@ module.exports = import("react-toastify");;
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc","vendor-chunks/framer-motion","vendor-chunks/lucide-react","vendor-chunks/date-fns","vendor-chunks/react-toastify"], () => (__webpack_exec__("./src/pages/_app.tsx")));
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc","vendor-chunks/framer-motion","vendor-chunks/date-fns","vendor-chunks/lucide-react","vendor-chunks/react-toastify"], () => (__webpack_exec__("./src/pages/_app.tsx")));
 module.exports = __webpack_exports__;
 
 })();
