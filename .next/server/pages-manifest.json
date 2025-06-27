@@ -4,7 +4,7 @@
   "/_document": "pages/_document.js",
   "/404": "pages/404.js",
   "/login": "pages/login.js",
-  "/qr-code": "pages/qr-code.js",
   "/": "pages/index.js",
-  "/tenant": "pages/tenant.js"
+  "/tenant": "pages/tenant.js",
+  "/owner-login": "pages/owner-login.js"
 }
